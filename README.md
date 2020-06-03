@@ -1,5 +1,5 @@
 # dotfiles
-Meus dotfiles do i3 e relacionados
+Meus dotfiles do i3wm e relacionados
 
 **Programas Necessários:**
 
