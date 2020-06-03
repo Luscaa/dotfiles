@@ -1,4 +1,5 @@
 # dotfiles
+[Screenshot](screenshot_1.png)
 Meus dotfiles do i3wm e relacionados
 
 **Programas Necessários:**
