@@ -11,4 +11,4 @@ Na sua máquina, talvez você precise fazer algumas pequenas alterações, como 
 
 **Créditos:**
 
-Grande parte das configurações dos arquivos tirei dos dotfiles do [mav] (https://github.com/lucascipriano/dotfiles)
+Grande parte das configurações dos arquivos tirei dos dotfiles do [mav](https://github.com/lucascipriano/dotfiles)
