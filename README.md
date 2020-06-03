@@ -1,7 +1,7 @@
 # dotfiles
-meu dotfiles do i3 e relacionados
+Meus dotfiles do i3 e relacionados
 
-**programas necessários:**
+**Programas Necessários:**
 
 picom, feh, dmenu, flameshot, termite, i3lock, polybar, i3
 
