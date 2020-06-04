@@ -1,8 +1,10 @@
 # dotfiles
+
+Meus dotfiles do i3wm e relacionados
+
 ![screenshot](https://raw.githubusercontent.com/Luscaa/dotfiles/master/screenshot_2.png?raw=true)
 
 
-Meus dotfiles do i3wm e relacionados
 
 **Programas Necessários:**
 
