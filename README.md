@@ -1,5 +1,5 @@
 # dotfiles
-[Screenshot](screenshot_1.png)
+![screenshot](https://raw.githubusercontent.com/Luscaa/dotfiles/master/screenshot_1.png?raw=true)
 Meus dotfiles do i3wm e relacionados
 
 **Programas Necessários:**
