@@ -2,7 +2,7 @@
 
 **Meus dotfiles do i3wm e relacionados**
 
-![screenshot](https://raw.githubusercontent.com/Luscaa/dotfiles/master/screenshot_2.png?raw=true)
+![screenshot](https://raw.githubusercontent.com/Luscaa/dotfiles/master/screenshot_3.png?raw=true)
 
 
 
