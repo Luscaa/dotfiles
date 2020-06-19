@@ -8,7 +8,29 @@
 
 **Programas Necessários:**
 
-picom, feh, dmenu, flameshot, termite, i3lock, polybar, i3
+**picom**
+Compositor de janelas
+
+**feh**
+Usado para colocar o wallpaper
+
+**dmenu**
+Lançar programas
+
+**flameshot**
+Tirar screenshots
+
+**termite**
+Emulador de terminal
+
+**i3lock**
+Bloqueador de tela
+
+**polybar**
+Responsável pela barra
+
+**i3**
+Gerenciador de janelas
 
 **Observações:**
 
