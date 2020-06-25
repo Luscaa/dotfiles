@@ -2,34 +2,34 @@
 
 **Meus dotfiles do i3wm e relacionados**
 
-![screenshot](https://raw.githubusercontent.com/Luscaa/dotfiles/master/screenshot_3.png?raw=true)
+![screenshot](https://raw.githubusercontent.com/Luscaa/dotfiles/master/screenshot_2.png?raw=true)
 
 
 
 **Programas Necessários:**
 
-**picom**
+**picom**:
 Compositor de janelas
 
-**feh**
+**feh**:
 Usado para colocar o wallpaper
 
-**dmenu**
+**dmenu**:
 Lançar programas
 
-**flameshot**
+**flameshot**:
 Tirar screenshots
 
-**termite**
+**termite**:
 Emulador de terminal
 
-**i3lock**
+**i3lock**:
 Bloqueador de tela
 
-**polybar**
+**polybar**:
 Responsável pela barra
 
-**i3**
+**i3**:
 Gerenciador de janelas
 
 **Observações:**
